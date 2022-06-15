@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm an Informatics Engineering student at the University of Aveiro, currently in my third and final year.
 <br>
-I consider myself a motivated person, always looking to build and improve my skills and experience.  
+I like to consider myself resilient to difficulties and passionate about the projects that I’m involved in, always looking to build and improve my skills and experience.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/tomascandeias/">
